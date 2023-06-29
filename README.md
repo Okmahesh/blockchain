@@ -1,6 +1,6 @@
-#here are the folowing steps to create a token/deploy ERC20
+# here are the folowing steps to create a token/deploy ERC20
 
-#metamask
+# metamask
 1. create an account on metamask wallet 
 2. connect to goerli testnetwork from settings
 3. mine goerliETH from(https://goerli-faucet.pk910.de/)
@@ -8,7 +8,7 @@
 ![Screenshot (2)](https://github.com/Okmahesh/blockchain/assets/118921585/419cebb2-29be-4b0d-8dc7-2febdbd32454)
 
 
-#20lab
+# 20lab
 1. Go to given link: https://20lab.app/ (20lab is an ERC-20 token generator tool)
 2. Click on open app>Start
 3. Connect your wallet using connect wallet button and select metamask then once you see your account click on connect.
